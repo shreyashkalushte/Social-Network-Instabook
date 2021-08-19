@@ -1,0 +1,4 @@
+Django
+django-friendship
+django-crispy-forms
+pillow
