@@ -1,6 +1,6 @@
 
-# Social Network
-Social-Network is a simple social networking application with features like posting photos, adding likes and comments (much like facebook).\
+# Social Network Instabook
+This a simple social networking application with features like posting photos, adding likes and comments (much like facebook).\
 It's currently titled 'Instabook'
 # Technology Stack
 
