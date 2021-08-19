@@ -17,8 +17,8 @@ It's currently titled 'Instabook' (yes, that's combination of Instagram and Face
 # Installation
 ### Steps ###
 * Clone the forked repository in your local system.\
-```git clone https://github.com/<username>/Social-Network```\
-```cd Social-Network```\
+```git clone https://github.com/<username>/Social-Network-Instabook```\
+```cd Social-Network-Instabook```\
 Make sure you are inside Social-Network directory before proceeding with following steps.
 
 * Create a virtual environment and start it by running\
