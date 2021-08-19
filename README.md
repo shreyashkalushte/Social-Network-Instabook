@@ -1,8 +1,7 @@
 
 # Social Network
 Social-Network is a simple social networking application with features like posting photos, adding likes and comments (much like facebook).\
-It's currently titled 'Instabook' (yes, that's combination of Instagram and Facebook, as I couldn't come up with some creative title), though open to suggestions!
-
+It's currently titled 'Instabook'
 # Technology Stack
 
 * Bootstrap: HTML, CSS and JS Library for styling web pages
